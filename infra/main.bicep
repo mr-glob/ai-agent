@@ -16,6 +16,7 @@ param environmentName string
   'swedencentral'
   'westus'
   'westus3'
+  'japaneast'
 ])
 @metadata({
   azd: {

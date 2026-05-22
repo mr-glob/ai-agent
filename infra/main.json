@@ -24,7 +24,8 @@
         "eastus2",
         "swedencentral",
         "westus",
-        "westus3"
+        "westus3",
+        "japaneast"
       ],
       "metadata": {
         "azd": {
